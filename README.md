@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled 
 
 ### 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://i.pinimg.com/736x/48/e0/f3/48e0f3e95f00646880441f490bf008f5.jpg" alt="AWS" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
