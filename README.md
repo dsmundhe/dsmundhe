@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Dipak Mundhe
-![My Photo](https://i.pinimg.com/564x/42/84/71/428471d4f6c147b88ee7c2cff3efc4cb.jpg)
+![My Photo](https://i.pinimg.com/564x/f9/26/f0/f926f0552332feea71114d646a7c6349.jpg)
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled in building beautiful, responsive web applications and exploring innovative solutions. 🚀 
 
