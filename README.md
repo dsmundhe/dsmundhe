@@ -46,14 +46,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled 
 - [**HostelDekho**](https://github.com/username/hosteldekho) - An online hostel booking platform where users can search for hostels by city.
 - [**ShopX**](https://github.com/username/shopx) - An eCommerce web application with real-time inventory tracking and a responsive UI.
 
----
-
- ### 📖 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Introduction to MERN Stack Development](https://medium.com/@dsmundhe/introduction-to-mern-stack)
-- [Building Responsive Web Apps with React](https://dev.to/dsmundhe/building-responsive-web-apps-with-react)
-<!-- BLOG-POST-LIST:END -->
-
 
 ---
 
