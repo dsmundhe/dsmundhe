@@ -53,9 +53,10 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled 
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/dipak-samadhan-mundhe-b2301425b/)
-[![Portfolio](https://dmportfolioo1.netlify.app/)
+ ### 🌐 Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-samadhan-mundhe-b2301425b/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-00BFFF?style=for-the-badge&logo=about.me&logoColor=white)](https://dmportfolioo1.netlify.app/)
+
 
 ---
 
