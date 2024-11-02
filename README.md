@@ -1,20 +1,6 @@
 # Hi there! 👋 I'm Dipak Mundhe
-![My Photo](https://i.pinimg.com/564x/f9/26/f0/f926f0552332feea71114d646a7c6349.jpg)
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled in building beautiful, responsive web applications and exploring innovative solutions. 🚀 
-
----
-
-
----
-
-### 💼 About Me
-- 🔭 I’m currently working on **[The Career Company](https://github.com/username/thecareercompany)**
-- 🌱 I’m learning more about **AI and Machine Learning**
-- 💬 Ask me about **MERN Stack, JavaScript, or any tech-related topics**
-- 📫 Reach me at [dipakmundhe2026@gmail.com](mailto:your.email@example.com)
-
----
 
 ### 🛠️ Technologies & Tools
 <p align="left">
@@ -31,6 +17,19 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled 
 </p>
 
 
+![My Photo](https://i.pinimg.com/564x/f9/26/f0/f926f0552332feea71114d646a7c6349.jpg)
+---
+
+
+---
+
+### 💼 About Me
+- 🔭 I’m currently working on **[The Career Company](https://github.com/username/thecareercompany)**
+- 🌱 I’m learning more about **AI and Machine Learning**
+- 💬 Ask me about **MERN Stack, JavaScript, or any tech-related topics**
+- 📫 Reach me at [dipakmundhe2026@gmail.com](mailto:your.email@example.com)
+
+---
 
 ---
 
