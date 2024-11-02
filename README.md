@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Dipak Mundhe]
+# Hi there! 👋 I'm Dipak Mundhe
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled in building beautiful, responsive web applications and exploring innovative solutions. 🚀 
 
@@ -30,9 +30,10 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled 
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+ ### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsmundhe&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsmundhe&layout=compact&theme=radical)
+
 
 ---
 
@@ -43,27 +44,30 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled 
 
 ---
 
-### 📖 Latest Blog Posts
+ ### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MERN Stack Development](https://medium.com/@yourusername/introduction-to-mern-stack)
-- [Building Responsive Web Apps with React](https://dev.to/yourusername/building-responsive-web-apps-with-react)
+- [Introduction to MERN Stack Development](https://medium.com/@dsmundhe/introduction-to-mern-stack)
+- [Building Responsive Web Apps with React](https://dev.to/dsmundhe/building-responsive-web-apps-with-react)
 <!-- BLOG-POST-LIST:END -->
+
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/dipak-samadhan-mundhe-b2301425b/)
+[![Portfolio](https://dmportfolioo1.netlify.app/)
 
 ---
 
-### 📝 Fun Facts
-- 🎸 I play guitar in my free time.
+ ### 📝 Fun Facts
+- 📚 I love to read books.
+- 🏏 I enjoy playing cricket.
+- 🎶 I love listening to songs.
 - 🌎 Love to travel and learn about different cultures.
 - 🌱 Always up for a tech talk or a code challenge!
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dsmundhe&theme=react-dark)
+
 
