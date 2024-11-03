@@ -65,6 +65,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled 
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dsmundhe&theme=react-dark)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsmundhe&show_icons=true&theme=react)
+
 
 
