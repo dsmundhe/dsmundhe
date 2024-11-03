@@ -20,10 +20,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** skilled 
 
 ---
 
-![My Photo](https://i.pinimg.com/564x/f9/26/f0/f926f0552332feea71114d646a7c6349.jpg)
-
----
-
 ### 💼 About Me
 - 🔭 I’m currently working on **[The Career Company](https://github.com/username/thecareercompany)**
 - 🌱 I’m learning more about **AI and Machine Learning**
