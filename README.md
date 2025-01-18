@@ -34,7 +34,7 @@ Areas of expertise, ongoing learning, and technologies of interest:
 
 Programming Languages: 
 <br><br>
-   <img alt="Programming Languages" src="https://skillicons.dev/icons?i=javascript,java,python"/>
+   <img alt="Programming Languages" src="https://skillicons.dev/icons?i=java,javascript,python"/>
 <br><br>
  Frameworks and Libraries: 
 <br><br>
@@ -42,11 +42,11 @@ Programming Languages:
 <br><br>
  Databases and Cloud: 
 <br><br>
-<img alt="Data" src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws"/>
+<img alt="Data" src="https://skillicons.dev/icons?i=mongodb,mysql,aws"/>
 <br><br>
  Tools and Technologies: 
 <br><br>
-<img alt="Tools" src="https://skillicons.dev/icons?i=vscode,git,github,docker"/>
+<img alt="Tools" src="https://skillicons.dev/icons?i=vscode,git,github"/>
 <br><br>
  Web Development: 
 <br><br>
