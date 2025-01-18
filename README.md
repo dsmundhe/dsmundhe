@@ -7,7 +7,8 @@
 <div align="center">
   <br>
 
- <strong> **MERN Stack Developer** </strong>
+<strong style="color: purple; font-weight: bold; font-size: 1.5rem;">MERN Stack Developer</strong>
+
 
   <h3> <strong> 🖖 Dipak Mundhe !!! 🖖 </strong> </h3>
 
