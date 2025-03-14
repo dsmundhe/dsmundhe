@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1500&color=1ECBF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dipak+Mundhe+%F0%9F%91%8B;MERN+Stack+Developer;Passionate+about+Full-Stack+Development!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1500&color=1ECBF0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dipak+Mundhe+%F0%9F%91%8B;MERN+Stack+Developer;Passionate+about+Full-Stack+Development!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -54,15 +54,15 @@ I'm a **Full-Stack Developer** passionate about creating impactful digital exper
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=dsmundhe&show_icons=true&hide=contribs&include_all_commits=true&title_color=1ecaf0&icon_color=1ecaf0&border_radius=12.0&border_color=0D1117&card_width=400&text_color=a5adba&bg_color=0D1117" alt="GitHub Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=dsmundhe&show_icons=true&include_all_commits=true&theme=radical&border_radius=12" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsmundhe&layout=compact&title_color=1ecaf0&border_radius=12.0&border_color=0D1117&card_width=400&text_color=a5adba&bg_color=0D1117" alt="Top Languages"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsmundhe&layout=compact&theme=radical&border_radius=12" alt="Top Languages"/>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=dsmundhe&theme=merko&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=189DBA&background=0D1117&dates=A5ADBA&ring=1ECAF0&fire=1ECAF0&currStreakNum=1ECAF0&sideNums=1ECAF0&currStreakLabel=189DBA&border=0D1117&card_width=600" alt="GitHub Streak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=dsmundhe&theme=radical&border_radius=12" alt="GitHub Streak"/>
 </p>
 
 ---
