@@ -23,7 +23,7 @@ I'm a **Full-Stack Developer** passionate about creating impactful digital exper
 
 ### 🛠 Programming Languages
 <p align="center">
-   <img alt="Programming Languages" src="https://skillicons.dev/icons?i=java,javascript,python"/>
+   <img alt="Programming Languages" src="https://skillicons.dev/icons?i=java,javascript"/>
 </p>
 
 ### ⚡ Frameworks & Libraries
